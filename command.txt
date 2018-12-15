@@ -1,0 +1,2 @@
+javac XFactor/src/Main.java -d XFactor/bin 
+java -cp XFactor/bin:XFactor/lib/mssql-jdbc-7.0.0.jre8.jar Main
